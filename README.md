@@ -1,5 +1,7 @@
 # YelpCamp
 
+This project is a website about campgrounds , where users can browse campgrounds located in their areas , can give reviews about different campgrounds , campground owners can create new campgrounds and can delete created campgrounds.
+
 This Project is build using Javascript for frontend and Node.js and it's frame works for backend.
 MongoDB is used as the Database.
 
